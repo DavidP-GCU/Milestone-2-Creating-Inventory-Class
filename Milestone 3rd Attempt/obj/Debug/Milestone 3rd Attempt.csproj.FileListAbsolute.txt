@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\bin\Debug\Milestone 3rd Attempt.exe.config
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\bin\Debug\Milestone 3rd Attempt.exe
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\bin\Debug\Milestone 3rd Attempt.pdb
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\obj\Debug\Milestone 3rd Attempt.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\obj\Debug\Milestone 3rd Attempt.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\obj\Debug\Milestone_3rd_Attempt.Form1.resources
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\obj\Debug\Milestone_3rd_Attempt.Properties.Resources.resources
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\obj\Debug\Milestone 3rd Attempt.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\obj\Debug\Milestone 3rd Attempt.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\obj\Debug\Milestone 3rd Attempt.exe
+C:\Users\David\source\repos\Milestone 3rd Attempt\Milestone 3rd Attempt\obj\Debug\Milestone 3rd Attempt.pdb
